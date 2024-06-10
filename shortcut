@@ -1,0 +1,10 @@
+Summary of Common Commands
+Initialize a repository: git init
+Add files: git add .
+Commit changes: git commit -m "message"
+Add remote: git remote add origin URL
+Push changes: git push
+Pull changes: git pull
+Create branch: git checkout -b branch-name
+Switch branch: git checkout branch-name
+Merge branch: git merge branch-name
